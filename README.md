@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DallasParker83
 - 👀 I’m interested in ... Development
-- 🌱 I’m currently learning ... Fulol Stack development
+- 🌱 I’m currently learning ... Full Stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
